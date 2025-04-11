@@ -4,7 +4,7 @@ h1{
 
 @font-face {
     font-family: 'buttermilk';
-    src: url('/fonts/Buttermilk.ttf') format('truetype');
+    src: url('/fonts/Buttermilk.woff') format('truetype');
   }
   
   * {
