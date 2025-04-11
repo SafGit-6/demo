@@ -1,0 +1,24 @@
+h1{
+    color:maroon;
+}
+
+@font-face {
+    font-family: 'buttermilk';
+    src: url('/fonts/Buttermilk.ttf') format('truetype');
+  }
+  
+  * {
+    font-family: 'buttermilk';
+  }
+  
+
+.username{
+    font-style: italic;
+}
+
+.post{
+    background-color: blanchedalmond;
+}
+.content{
+    background-color: lightyellow;
+}
